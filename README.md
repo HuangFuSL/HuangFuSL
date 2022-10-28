@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuangFuSL
-- 🎓 I'm from Tsinghua University
-- 👀 I’m interested in Python
+- 🎓 I'm graduated from Tsinghua University
+- 👀 I’m interested in Python and LaTeX
 - 🌱 I’m currently learning Node.js and TypeScript
 - 📫 [How to reach me](mailto:huangfusl@outlook.com)
 
