@@ -7,7 +7,7 @@
 - 📫 [How to reach me](mailto:huangfusl@outlook.com)
 - Welcome to visit my blog at [blog.huangfusl.net](https://blog.huangfusl.net)
 
-![Metrics](https://huangfusl.github.io/metrics.svg)
+<!--- ![Metrics](https://huangfusl.github.io/metrics.svg) --->
 
 <!---
 HuangFuSL/HuangFuSL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
